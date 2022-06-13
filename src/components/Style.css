@@ -1,0 +1,12 @@
+.Box{
+    display: flex;
+    
+
+}
+
+@media (max-width:600px){
+    .Leftboard{
+        height: '300px';
+        display: none;
+    }
+}
